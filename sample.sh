@@ -7,5 +7,5 @@ ls
 # cat user file
 cat /etc/passwd | head -2
 
-# grep root user from user file
+# grep root user from user files
 grep root /etc/passwd
